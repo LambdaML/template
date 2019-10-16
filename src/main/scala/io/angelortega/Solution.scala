@@ -1,4 +1,4 @@
-package coderpads
+package io.angelortega
 
 import org.scalacheck.util.Testable
 import org.scalatest.{FunSuite, Matchers}
